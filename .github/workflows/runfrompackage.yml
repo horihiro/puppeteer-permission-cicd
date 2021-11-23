@@ -1,4 +1,4 @@
-name: Deploy Node.js project to Azure Function App by ZipDeploy
+name: Deploy Node.js project to Azure Function App by Run From Package
 
 on:
   [workflow_dispatch]
