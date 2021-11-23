@@ -1,7 +1,7 @@
 name: Deploy Node.js project to Azure Function App
 
 on:
-  [push]
+  [workflow_dispatch]
 
 env:
   AZURE_FUNCTIONAPP_NAME: puppeteerga      # set this to your application's name
